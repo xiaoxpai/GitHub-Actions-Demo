@@ -11,5 +11,12 @@
     <source.level>11</source.level>
     <target.level>11</target.level>
     </properties>
-    
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.7.7</version>
+        </dependency>
+    </dependencies>
 </project>
